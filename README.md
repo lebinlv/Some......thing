@@ -12,6 +12,8 @@ Windows App Store
 - ScreenToGif
 - QuickLook
 
+----
+
 ## Ubuntu
 
 ### GenPac
@@ -74,6 +76,6 @@ Windows App Store
 
 ### 安装ubuntu后要做的事
 
-    sudo apt-get remove --purge libreoffice-common unity-webapps-common thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku onboard deja-dup
+清理系统
 
-> 清理系统
+    sudo apt-get remove --purge libreoffice-common unity-webapps-common thunderbird totem rhythmbox empathy brasero simple-scan gnome-mahjongg aisleriot gnome-mines cheese transmission-common gnome-orca webbrowser-app gnome-sudoku onboard deja-dup
